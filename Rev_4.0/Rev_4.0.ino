@@ -4,7 +4,7 @@
 ///// SERVO SWEEP MOVED INTO A FUNCTION, TO BE CALLED IN THE MAIN "loop()"  /////
 ///// REPLACING "delay()" with "millis()" FOR MULTITASKING  /////
 ///// BT AND SERVO LIBRARIES REPLACED BY 3RD PARTY ONES WITH MUCH BETTER SUPPORT FOR WORKING TOGETHER  /////
-/////   /////
+
 
 
 #include <NeoSWSerial.h>
